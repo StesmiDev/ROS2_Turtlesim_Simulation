@@ -1,0 +1,21 @@
+[0.243s] Invoking command in '/home/cyberdev/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/cyberdev/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cyberdev/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/cyberdev/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
+[0.337s] running develop
+[0.337s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.337s]   warnings.warn(
+[0.390s] running egg_info
+[0.390s] writing my_robot_controller.egg-info/PKG-INFO
+[0.391s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.391s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.391s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.391s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.392s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.392s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.393s] running build_ext
+[0.393s] Creating /home/cyberdev/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.393s] Installing draw_circle script to /home/cyberdev/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.394s] Installing pose_subscriber script to /home/cyberdev/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.394s] Installing test_node script to /home/cyberdev/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.394s] 
+[0.394s] Installed /home/cyberdev/ros2_ws/build/my_robot_controller
+[0.394s] running symlink_data
+[0.407s] Invoked command in '/home/cyberdev/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/cyberdev/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cyberdev/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/cyberdev/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
